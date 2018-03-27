@@ -15,4 +15,6 @@ function firstListItem() {
 }
 
 function firstListItem() {
-  return 
+  return $('div img:first-child');
+}
+
