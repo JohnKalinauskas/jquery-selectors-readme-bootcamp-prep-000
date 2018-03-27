@@ -25,7 +25,7 @@ function divSelector() {
 
 
 function firstListItem() {
-  return $('')
+  return $('ul > :first-child')
 }
 
 
