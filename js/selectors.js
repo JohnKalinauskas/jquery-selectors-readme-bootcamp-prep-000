@@ -3,6 +3,7 @@ function pargraphSelector() {
   }
 
 function lastImageSelector()  {
-  return $()
+  return $("https://s3.amazonaws.com/after-school-assets/confused.gif");
   
 }
+
