@@ -1,5 +1,5 @@
 function pargraphSelector() {
-  return $('P')
+  return $('p')
   
 }
 
