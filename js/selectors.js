@@ -7,7 +7,7 @@ function lastImageSelector()  {
   
 }
 function ninjaBabySelector() {
-  
+ return $ ( "https://s3.amazonaws.com/after-school-assets/baby-ninja.gif")
   
   
 }
