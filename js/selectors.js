@@ -25,7 +25,7 @@ function divSelector() {
 
 
 function firstListItem() {
-  return $('div ul')
+  return $('div li')
 }
 
 
