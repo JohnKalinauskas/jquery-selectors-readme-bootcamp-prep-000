@@ -9,8 +9,7 @@ function divSelector() {
 function firstListItem() {
   return $('div img:first-child');
 }
-function lastImageSelector()  {
-  return $('div:last');
+
 }
 function ninjaBabySelector() {
  return $('#baby-ninja');
