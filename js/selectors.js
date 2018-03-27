@@ -10,8 +10,8 @@ function ninjaBabySelector() {
 function divSelector() {
   return $('.pics');
 }
-function  {
-  return $('div img:first');
+function firstListItem() {
+  return $('div img:first-child');
 }
 
 
