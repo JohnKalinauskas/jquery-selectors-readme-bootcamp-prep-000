@@ -16,5 +16,3 @@ function firstListItem() {
 }
 
 }
-function ninjaBabySelector() {
- return $('#baby-ninja');
