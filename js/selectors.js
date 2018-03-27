@@ -3,6 +3,6 @@ function pargraphSelector() {
   }
 
 function lastImageSelector()  {
-  return
+  return $()
   
 }
