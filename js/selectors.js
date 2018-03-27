@@ -24,26 +24,26 @@ function divSelector() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 function firstListItem() {
   return $('div img:first-child')
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
